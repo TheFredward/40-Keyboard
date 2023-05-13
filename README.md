@@ -26,7 +26,7 @@ Working on the code and debbuging; still deciding on how th set the last row cur
 
 
 ### Task Notes
-<<br>
+<br>
 
 Added the diodes and chose the pins to use on the Raspberry Pi W.
 <br>
@@ -37,7 +37,7 @@ Added the diodes and chose the pins to use on the Raspberry Pi W.
 ![Raspberry Pi Wired](images/raspberry_pi_w.jpg)
 <br>
 
-![Body Frame Top](images/body_frame_V2_top.jpg)br>
+![Body Frame Top](images/body_frame_V2_top.jpg)
 <br>
 
 Second and Third Task Notes
