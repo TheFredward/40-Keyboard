@@ -1,4 +1,4 @@
-#Objective
+# Objective
 <br>
 
 Want to make my own ~40% keyboard, I started by referencing preonic ortholinear keyboard.For the project I'm using **Blender** for modelling and designing prototypes, and a Biqu B1 FDM 3D printer to print prototypes. To drive this keyboard I will be using a Raspberry Pi Pico W with KMK Software.
