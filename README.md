@@ -9,22 +9,35 @@ Want to make my own ~40% keyboard, I started by referencing preonic ortholinear 
  - [x] Develop and protype a switch plate for a single keyboard switch
  - [x] Create a 10 column single row
  - [x] Print protype
- - [ ] Solder the Diodes and switches
+ - [x] Solder the Diodes and switches
  - [ ] Assemble base frame
- - [ ] Program the 40% keyboard
+ - [x] Program the 40% keyboard
  - [ ] Build the base and attach the switch frame
  <br>
 
 ### Current Task
 <br>
 
-Working on wiring the keyboard using *body_frame_V2*. I plan on using Raspberry Pi Pico W with **KMK Software**, Gateron Red switches, and 1N4148FS-ND for the diodes.
+Working on the code and debbuging; still deciding on how th set the last row currently just have the first 30 keys assigned.
 <br>
 
-![Body Frame Top](images/body_frame_V2_top.jpg)
+![Current Code](images/Debug_and_Code.png)
+<br>
 
 
 ### Task Notes
+<<br>
+
+Added the diodes and chose the pins to use on the Raspberry Pi W.
+<br>
+
+![Keyboard and Pi](images/wired_keyboard.jpg)
+<br>
+
+![Raspberry Pi Wired](images/raspberry_pi_w.jpg)
+<br>
+
+![Body Frame Top](images/body_frame_V2_top.jpg)br>
 <br>
 
 Second and Third Task Notes
